@@ -1,7 +1,6 @@
 package net.bradjones.sample;
 
 
-import org.junit.Assert;
 import org.junit.Test;
 
 /**
